@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Tess4j_dep">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Tess4j_dep" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Tess4j_dep" recursive="false" />
+  </library>
+</component>
